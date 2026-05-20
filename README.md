@@ -371,7 +371,7 @@ Through this project, I learned:
 
 # 👩‍💻 Author
 
-**Komal Kumari**  
+**Kaushal Kumar**  
 Aspiring Data Analyst | SQL & Power BI Enthusiast
 
 ---
